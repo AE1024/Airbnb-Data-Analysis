@@ -30,24 +30,26 @@ beds: Yatak sayısı
 📈 Analizler
 
 1. Veri Temizleme
+
 Eksik değerlerin kaldırılması
 Tekrar eden kayıtların silinmesi
 Aykırı değerlerin tespiti ve işlenmesi
+2. Tek Değişkenli Analiz
 
-3. Tek Değişkenli Analiz
 Fiyat dağılımı histogramı
 Bölgelere göre ortalama fiyatlar
+3. Çift Değişkenli Analiz
 
-5. Çift Değişkenli Analiz
 Bölge-Fiyat-Oda türü ilişkisi
 Yorum sayısı-Fiyat ilişkisi
 Değişkenler arası korelasyon
+4. Coğrafi Analiz
 
-7. Coğrafi Analiz
 Konaklama yerlerinin harita üzerinde dağılımı
-
 📊 Örnek Görselleştirmeler
+
 Proje aşağıdaki görselleştirmeleri içerir:
+
 Fiyat dağılımı box plot'ları
 Bölgesel fiyat karşılaştırmaları
 Korelasyon ısı haritası
