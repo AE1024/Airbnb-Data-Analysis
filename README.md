@@ -14,7 +14,6 @@ pip install -r requirements.txt
 📊 Veri Seti
 
 Veri seti aşağıdaki sütunları içermektedir:
-
 id: Konaklama ID'si
 host_id: Ev sahibi ID'si
 price: Gecelik fiyat
@@ -25,7 +24,6 @@ number_of_reviews: Yorum sayısı
 minimum_nights: Minimum konaklama süresi
 availability_365: Yıllık müsaitlik
 beds: Yatak sayısı
-
 
 📈 Analizler
 
